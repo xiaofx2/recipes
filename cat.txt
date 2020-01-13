@@ -1,4 +1,4 @@
-cat
+2 cats
 dog
 cow
 pig
