@@ -1,16 +1,24 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 new new new branch
 cat
 =======
 one 2 cats
 >>>>>>> 4ec93d4b2da8b4aca47e6cea9d1eadcd3fb8b842
+=======
+one 2 cats
+>>>>>>> refs/remotes/origin/master
 dog
 cow
 pig
 tiger
 <<<<<<< HEAD
+<<<<<<< HEAD
 testtest
 =======
 425g flour
 >>>>>>> 4ec93d4b2da8b4aca47e6cea9d1eadcd3fb8b842
+=======
+425g flour
+>>>>>>> refs/remotes/origin/master
